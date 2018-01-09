@@ -1,0 +1,19 @@
+current directory: /home/bitrock/rubystack23/apps/spree/htdocs/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext/mri
+/home/bitrock/rubystack23/ruby/bin/ruby -r ./siteconf20171215-4688-1rsjv0b.rb extconf.rb
+creating Makefile
+
+current directory: /home/bitrock/rubystack23/apps/spree/htdocs/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR=" clean
+
+current directory: /home/bitrock/rubystack23/apps/spree/htdocs/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR="
+compiling bcrypt_ext.c
+compiling crypt_gensalt.c
+compiling wrapper.c
+compiling crypt.c
+compiling crypt_blowfish.c
+linking shared-object bcrypt_ext.so
+
+current directory: /home/bitrock/rubystack23/apps/spree/htdocs/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR=" install
+/bin/install -c -m 0755 bcrypt_ext.so ./.gem.20171215-4688-1b2hvu8

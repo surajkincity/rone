@@ -1,0 +1,19 @@
+current directory: /home/bitrock/rubystack23/apps/spree/htdocs/vendor/bundle/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+/home/bitrock/rubystack23/ruby/bin/ruby -r ./siteconf20171215-4688-1ctlgx9.rb extconf.rb
+creating Makefile
+
+current directory: /home/bitrock/rubystack23/apps/spree/htdocs/vendor/bundle/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/bitrock/rubystack23/apps/spree/htdocs/vendor/bundle/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling locker.c
+compiling byebug.c
+compiling threads.c
+compiling breakpoint.c
+compiling context.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/bitrock/rubystack23/apps/spree/htdocs/vendor/bundle/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/bin/install -c -m 0755 byebug.so ./.gem.20171215-4688-jgbhal/byebug
